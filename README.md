@@ -11,9 +11,9 @@
 - [ ] สมัคร NIA ประมาณมกรา 63 : https://open.nia.or.th/uploads/files/file_5cc171e8367b5.pdf
 - [ ] สมัคร TED Fund 62: ยังไม่ประกาศ
 - [ ] สมัคร LINE Scaleup
-- [ ] สมัคร STARTUP ECOSYSTEM : https://ecosystem.startupthailand.org/
+- [x] สมัคร STARTUP ECOSYSTEM : https://ecosystem.startupthailand.org/
 
 ## TODO - Payment
-- [ ] ลงทะเบียน KBank : https://apiportal.kasikornbank.com/open-api/
-- [ ] ลงทะเบียน SCB : https://developer.scb.co.th/#/home
+- [ ] ลงทะเบียน KBank API : https://apiportal.kasikornbank.com/open-api/
+- [ ] ลงทะเบียน SCB API : https://developer.scb.co.th/#/home
 - [ ] ลงทะเบียน LINE Pay : https://pay.line.me/th/developers/techsupport/sandbox/testflow?locale=th_TH
