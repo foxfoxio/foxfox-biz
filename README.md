@@ -12,6 +12,7 @@
 - [ ] สมัคร TED Fund 62: ยังไม่ประกาศ
 - [ ] สมัคร LINE Scaleup
 - [x] สมัคร STARTUP ECOSYSTEM : https://ecosystem.startupthailand.org/
+- [ ] ไว้ค่อยลงมะ : https://www.depa.or.th/th/PM-award
 
 ## TODO - Payment
 - [ ] ลงทะเบียน KBank API : https://apiportal.kasikornbank.com/open-api/
